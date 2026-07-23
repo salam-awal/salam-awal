@@ -3,7 +3,7 @@
 #### A Data Professional
 
 
-- 🔭 I'm currently working on **Workflow Automations, Data analytics dashboards and cloud-based data pipelines**
+- 🔭 I'm currently working on Workflow Automations, Data Analytics dashboards and Cloud-Based Data Pipelines
 
 - 🌱 I'm currently learning **AI and Workflow automation**
 
